@@ -1,3 +1,3 @@
 # Esimene weekly
 
-HellowWord
+HellowWorld

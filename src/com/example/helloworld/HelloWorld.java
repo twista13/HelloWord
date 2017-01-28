@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("Hello, World");
         System.out.println("Author: Aleksei");
         System.out.println("Aasta: 2016");
+        System.out.println(" ");
     }
 }
